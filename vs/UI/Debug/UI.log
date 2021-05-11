@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GUI.vcxproj, UI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(36,43): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(109,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(347,13): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(352,17): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(431,22): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(434,22): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(437,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(440,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\UI\Demo.cpp(664,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  UI.vcxproj -> C:\Users\ASUS\source\repos\new\Pemrograman_Gim\vs\Debug\SnakeMissqueen.exe
